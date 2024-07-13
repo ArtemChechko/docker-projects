@@ -1,4 +1,4 @@
-![Alt text](architecture-diagram.jpg)
+![Alt text](jupiter-website/architecture-diagram.jpg)
 ---
 # Static Website Deployment on AWS using Docker and ECS
 
