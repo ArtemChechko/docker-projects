@@ -1,3 +1,6 @@
+![Alt text](jupiter-website/architecture diagram.jpg)
+
+---
 # Static Website Deployment on AWS using Docker and ECS
 
 This project demonstrates the deployment of a static website on AWS, utilizing Docker and Amazon ECS. The deployment is designed to be highly available, fault-tolerant, and scalable by leveraging various AWS services.
