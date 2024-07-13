@@ -1,4 +1,4 @@
-![Alt text](architecture diagram.jpg)
+![Architecture diagram](architecture diagram.jpg)
 
 ---
 # Static Website Deployment on AWS using Docker and ECS
